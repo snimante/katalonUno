@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prueba02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb614a33-d034-452c-821e-d4b59cdbf01b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5a254b9-2729-4329-94e0-0086ddcebb6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'16107705T'</defaultValue>
+      <description></description>
+      <id>d5a254b9-2729-4329-94e0-0086ddcebb6a</id>
+      <masked>false</masked>
+      <name>DNIcomprador</name>
+   </variable>
+</TestCaseEntity>

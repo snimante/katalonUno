@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>99 - 07 - Firma de contrato con Avalista</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97da522d-6600-4d2f-b5eb-9e251d75f38b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f9541d1-bf6b-47a7-858f-738d9d88bff6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>8f9541d1-bf6b-47a7-858f-738d9d88bff6</id>
+      <masked>false</masked>
+      <name>Punto</name>
+   </variable>
+</TestCaseEntity>

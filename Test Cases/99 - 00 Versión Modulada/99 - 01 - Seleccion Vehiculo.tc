@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>99 - 01 - Seleccion Vehiculo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>982cd43b-d820-40dc-9969-9528e3bc751c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0b6ecc3d-80e5-49b9-b87d-630924384cf1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Centro 12000/12000</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0b6ecc3d-80e5-49b9-b87d-630924384cf1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PuntoRed</value>
+      <variableId>909cfb9b-0411-4382-8117-1dd654803c70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>909cfb9b-0411-4382-8117-1dd654803c70</id>
+      <masked>false</masked>
+      <name>puntoRed</name>
+   </variable>
+</TestCaseEntity>

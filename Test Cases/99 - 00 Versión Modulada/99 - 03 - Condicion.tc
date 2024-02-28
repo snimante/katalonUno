@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>99 - 03 - Condicion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>029dda24-f28c-4a57-9663-1f8cde70b27b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4a5b8a4e-12a2-4e75-ae45-59eed3c17fd8</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Centro 12000/12000</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4a5b8a4e-12a2-4e75-ae45-59eed3c17fd8</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PuntoRed</value>
+      <variableId>347fc1b0-4c93-4838-9b31-a1ebddf5c63a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>347fc1b0-4c93-4838-9b31-a1ebddf5c63a</id>
+      <masked>false</masked>
+      <name>PuntoRed</name>
+   </variable>
+</TestCaseEntity>

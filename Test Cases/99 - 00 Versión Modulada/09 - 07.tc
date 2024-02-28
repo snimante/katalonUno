@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09 - 07</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20907bf6-98a8-4f82-9627-5e76c98aeddc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb5b3ae6-7faf-4dc9-9890-f9f1e32f3c07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>eb5b3ae6-7faf-4dc9-9890-f9f1e32f3c07</id>
+      <masked>false</masked>
+      <name>Punto</name>
+   </variable>
+</TestCaseEntity>

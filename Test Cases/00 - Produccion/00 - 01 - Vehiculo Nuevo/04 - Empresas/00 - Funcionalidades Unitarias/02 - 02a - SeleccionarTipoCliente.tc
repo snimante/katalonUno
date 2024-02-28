@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 - 02a - SeleccionarTipoCliente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>522d209d-6625-44a1-a6d9-4b5d053f2c09</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e573938-4768-4eb7-9413-561c526517c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'74557467T'</defaultValue>
+      <description></description>
+      <id>8e573938-4768-4eb7-9413-561c526517c7</id>
+      <masked>false</masked>
+      <name>DNIProfesional</name>
+   </variable>
+</TestCaseEntity>

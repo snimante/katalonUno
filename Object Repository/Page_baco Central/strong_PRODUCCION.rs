@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_PRODUCCION</name>
+   <tag></tag>
+   <elementGuidId>05b58173-055c-40d9-819f-42212ced6e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='abox4']/span/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#abox4 > span.data.text-light > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>366065b1-7cb8-4bb4-a1e9-18935d5435f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRODUCCION</value>
+      <webElementGuid>088b41d2-c7a0-4a8a-a23a-260b0f1d5067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;abox4&quot;)/span[@class=&quot;data text-light&quot;]/strong[1]</value>
+      <webElementGuid>22c5ec5d-b466-41c1-aa0a-a9a2709f05da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='abox4']/span/strong</value>
+      <webElementGuid>43f83878-d23b-42b9-8b32-25940e94d3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTRAR'])[5]/following::strong[1]</value>
+      <webElementGuid>943a328b-96ac-4b1f-99b2-176b626036f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEGURO AUTO'])[2]/following::strong[1]</value>
+      <webElementGuid>99a46519-92cf-4377-8037-520e86c2803d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTRAR'])[6]/preceding::strong[1]</value>
+      <webElementGuid>abe1e09d-8897-4da5-8e15-343ac77aba5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMIN. BAREMOS'])[2]/preceding::strong[1]</value>
+      <webElementGuid>30a7ba9c-5874-4931-bce6-5f9a85f000c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td/div/a/span/strong</value>
+      <webElementGuid>016907f3-6d12-4916-ba06-7edaa72a845c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'PRODUCCION' or . = 'PRODUCCION')]</value>
+      <webElementGuid>df42b1cf-556e-40f6-ab17-15c2ce1e5ade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

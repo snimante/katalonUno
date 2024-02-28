@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modelo clio authentic</name>
+   <tag></tag>
+   <elementGuidId>c2d17487-3437-4250-86d7-db56e1aadb05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='boundlist-1866-listEl']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boundlist-1866-listEl > ul.x-list-plain > li.x-boundlist-item.x-boundlist-item-over</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>15f43cc6-f7fc-49c7-9d96-15fac73672fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>87bd1948-06a6-476b-8243-a0f5c970a86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>2b8fc950-4be7-4485-928b-cabc111ff7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-boundlist-item x-boundlist-item-over</value>
+      <webElementGuid>c6bd532d-e0b2-4047-8c9d-88d826615824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E1W MG 6U S - AUTHENTIC SCE 49 KW (65CV)   999 c.c.</value>
+      <webElementGuid>e98610a0-b634-4543-a917-88f1f9161b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1866-listEl&quot;)/ul[@class=&quot;x-list-plain&quot;]/li[@class=&quot;x-boundlist-item x-boundlist-item-over&quot;]</value>
+      <webElementGuid>a1cc911e-0624-4ab4-aa99-ed0c01b0d228</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='boundlist-1866-listEl']/ul/li</value>
+      <webElementGuid>8e8f9da7-e8bf-4b20-a925-95bd149aff5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::li[1]</value>
+      <webElementGuid>671507ef-44e5-459b-a61e-aa4b05f67082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/following::li[1]</value>
+      <webElementGuid>0ea7b8f8-7e0d-40b8-ba71-ddc42fa8368b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/ul/li</value>
+      <webElementGuid>1d4f70d7-ca4c-4e9b-83d4-228c294bee1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'E1W MG 6U S - AUTHENTIC SCE 49 KW (65CV)   999 c.c.' or . = 'E1W MG 6U S - AUTHENTIC SCE 49 KW (65CV)   999 c.c.')]</value>
+      <webElementGuid>d0680471-bfdf-4f2b-ad52-8ca320f7ab98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

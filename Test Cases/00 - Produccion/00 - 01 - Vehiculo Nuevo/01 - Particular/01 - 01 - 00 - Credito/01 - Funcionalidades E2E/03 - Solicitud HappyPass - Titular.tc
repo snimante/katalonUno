@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 - Solicitud HappyPass - Titular</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96cc2afd-078b-46d0-abfe-3f2ca123880d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86f870c6-19fb-4839-9d4e-5cc3ee220ef8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'04655635K'</defaultValue>
+      <description></description>
+      <id>86f870c6-19fb-4839-9d4e-5cc3ee220ef8</id>
+      <masked>false</masked>
+      <name>NIFComprador</name>
+   </variable>
+</TestCaseEntity>

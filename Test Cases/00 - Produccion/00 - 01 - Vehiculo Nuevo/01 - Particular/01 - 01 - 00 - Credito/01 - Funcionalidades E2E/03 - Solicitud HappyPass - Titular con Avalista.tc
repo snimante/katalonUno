@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 - Solicitud HappyPass - Titular con Avalista</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d09bd64-0df5-4409-8045-2ddfab0b0d29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6714d8a-b52d-442b-a3c3-e661b8325cf4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c9a9c20-beb7-46b7-a4b7-829aec1ddaa7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'41558170E'</defaultValue>
+      <description></description>
+      <id>c6714d8a-b52d-442b-a3c3-e661b8325cf4</id>
+      <masked>false</masked>
+      <name>NIFComprador</name>
+   </variable>
+   <variable>
+      <defaultValue>'39179557T'</defaultValue>
+      <description></description>
+      <id>4c9a9c20-beb7-46b7-a4b7-829aec1ddaa7</id>
+      <masked>false</masked>
+      <name>NIFAvalista</name>
+   </variable>
+</TestCaseEntity>

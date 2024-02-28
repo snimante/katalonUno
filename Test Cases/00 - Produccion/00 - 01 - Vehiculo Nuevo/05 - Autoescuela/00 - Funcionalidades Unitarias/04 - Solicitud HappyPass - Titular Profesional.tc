@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04 - Solicitud HappyPass - Titular Profesional</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4f21f65-0eb8-46a7-a6d4-8658e40f14aa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>159116bb-5e5f-4fb7-89fe-3790258453c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'85970715G'</defaultValue>
+      <description></description>
+      <id>159116bb-5e5f-4fb7-89fe-3790258453c5</id>
+      <masked>false</masked>
+      <name>DNIProfesional</name>
+   </variable>
+</TestCaseEntity>

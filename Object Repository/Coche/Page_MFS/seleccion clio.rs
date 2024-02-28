@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>seleccion clio</name>
+   <tag></tag>
+   <elementGuidId>49205271-ac62-4422-8a4c-8c9fa2d5e091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='boundlist-1866-listEl']/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boundlist-1866-listEl > ul.x-list-plain > li.x-boundlist-item.x-boundlist-selected.x-boundlist-item-over</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4cafee7d-c5e4-41ee-89c2-266c26e45c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>d8115e54-b7d2-4867-9f2d-ce479687e99b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>341ef3bf-4715-4ee0-84c6-b60093a16414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-boundlist-item x-boundlist-selected x-boundlist-item-over</value>
+      <webElementGuid>813cc177-a315-4daa-b58a-1f0b1fc80a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CL5 - CLIO 5 fase 1</value>
+      <webElementGuid>ec461ad5-9a74-47db-8c99-01950c8361db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1866-listEl&quot;)/ul[@class=&quot;x-list-plain&quot;]/li[@class=&quot;x-boundlist-item x-boundlist-selected x-boundlist-item-over&quot;]</value>
+      <webElementGuid>d7ee238a-a731-44ca-90cc-b5a5d7b1636c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='boundlist-1866-listEl']/ul/li[2]</value>
+      <webElementGuid>565e6e17-2377-4001-a6a1-28a81810c05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AL1 - ALPINE fase 1'])[1]/following::li[1]</value>
+      <webElementGuid>83fb6ec8-3c71-447e-befb-2a1781eead29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::li[2]</value>
+      <webElementGuid>793e8342-0d1f-4067-ba80-74290cb17a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CP1 - NUEVO CAPTUR fase 1'])[1]/preceding::li[1]</value>
+      <webElementGuid>0181457d-1037-40ac-aada-9ae1a1b0297d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HN1 - NUEVO AUSTRAL fase 1'])[1]/preceding::li[2]</value>
+      <webElementGuid>23fa4c9a-4884-4604-ba3f-222a81e32ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CL5 - CLIO 5 fase 1']/parent::*</value>
+      <webElementGuid>eb7226f8-327d-44dc-bc49-88e8c2efe625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>51ade2fa-8014-45de-af9c-980fbc734aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'CL5 - CLIO 5 fase 1' or . = 'CL5 - CLIO 5 fase 1')]</value>
+      <webElementGuid>a6b2dfbe-7e70-4ff7-9340-7745e2c12d7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

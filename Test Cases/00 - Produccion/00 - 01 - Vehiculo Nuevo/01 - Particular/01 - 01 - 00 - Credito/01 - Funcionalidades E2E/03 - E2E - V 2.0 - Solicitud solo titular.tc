@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 - E2E - V 2.0 - Solicitud solo titular</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f061d894-5f08-4518-89f3-d89dbffeac75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c3dc2bf-d6bf-4b63-aa5d-b547a3e6a045</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'05513435J'</defaultValue>
+      <description></description>
+      <id>2c3dc2bf-d6bf-4b63-aa5d-b547a3e6a045</id>
+      <masked>false</masked>
+      <name>NIFComprador</name>
+   </variable>
+</TestCaseEntity>

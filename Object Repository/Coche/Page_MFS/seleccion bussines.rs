@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>seleccion bussines</name>
+   <tag></tag>
+   <elementGuidId>8f43017a-57f6-4a71-8533-e269070b97dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='boundlist-1870-listEl']/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#boundlist-1870-listEl > ul.x-list-plain > li.x-boundlist-item.x-boundlist-item-over</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf7d9bd6-bb53-4dab-9eda-5db7908c8760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5ff077c4-9eb8-4ff5-b573-1b720f0c8e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>8784bf9f-9552-4aec-9d3d-dc8798adf080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-boundlist-item x-boundlist-item-over</value>
+      <webElementGuid>77ed28f9-fc27-4ea1-ad5e-a5dfa00c0d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BU1 AG 6T - BUSINESS BLUE DCI 63 KW (85CV)   1461 c.c.</value>
+      <webElementGuid>c16cec8e-cda3-4989-b4a1-cda1cc642b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1870-listEl&quot;)/ul[@class=&quot;x-list-plain&quot;]/li[@class=&quot;x-boundlist-item x-boundlist-item-over&quot;]</value>
+      <webElementGuid>1f59d514-eba5-46f8-be65-873ba80bda13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='boundlist-1870-listEl']/ul/li[2]</value>
+      <webElementGuid>43fd112e-6717-49ab-82cd-dcf6d6e79261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECCIONE VERSIÓN'])[1]/following::li[1]</value>
+      <webElementGuid>9df3ece8-fd7f-450e-9660-e28b2b802852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZO1 - MEGANE E-TECH ELECTRICO'])[1]/following::li[3]</value>
+      <webElementGuid>688f7b83-db29-42ab-a40c-adee91caf8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/ul/li[2]</value>
+      <webElementGuid>751bd690-0b99-4226-affa-7d957b792a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'BU1 AG 6T - BUSINESS BLUE DCI 63 KW (85CV)   1461 c.c.' or . = 'BU1 AG 6T - BUSINESS BLUE DCI 63 KW (85CV)   1461 c.c.')]</value>
+      <webElementGuid>01b54c51-1d4a-42b0-9a1f-4f3542af5a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

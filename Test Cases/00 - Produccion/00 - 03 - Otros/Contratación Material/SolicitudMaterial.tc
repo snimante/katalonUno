@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validación de Empresa contrata Material</description>
+   <name>SolicitudMaterial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dfd57c5-61d6-4d3a-8184-d0b0a02a996b</testCaseGuid>
+</TestCaseEntity>

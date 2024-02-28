@@ -1,0 +1,208 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/05 - Opciones/05 - 00 - Opciones/00 - OpcionesOferta'))
+
+WebUI.delay(5)
+
+'Funcionalidad Solicitud - 7 - Solicitar'
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/05 - Opciones/05 - 03 - Solicitar/03 - NewSolicitar'), FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/05 - Opciones/05 - 03 - Solicitar/03 - 01 - SolictarCajaTres'), 
+    FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/05 - Opciones/05 - 03 - Solicitar/03 - Solicitar'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/00 - Vendedor/NIFvendedor'), '23312526W')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/NIFCliente'), 
+    GlobalVariable.GlobalDNITituAvalista)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/07 - Ofertar/01 - Emergentes/AceptarNoCliente'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/ApellidoSolicitar'), 
+    'ApeSolicitar')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/NombreSolicitar'), 
+    'NomSolicitar')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/CPSolicitud'), 
+    '28044')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/LocalidadSolicitud'), 
+    'Madrid')
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/SeleccionViaSolicitud'))
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/TipoVia'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/NombreViaSolicitud'), 
+    'PruebaVia')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/NumeroViaSolicitud'), 
+    '10')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/TelefonoSolicitud'), 
+    '687393983')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/01 - Datos de Contacto/MailSolicitud'), 
+    'rober.avila87@gmail.com')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/NumDependientes'), 
+    '1')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/02 - Datos vivienda/FechaViviendaSolicitud'), 
+    '01012010')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN1Solicitud'), 
+    'ES55')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN2Solicitud'), 
+    '1465')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN3Solicitud'), 
+    '0100')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN4Solicitud'), 
+    '9117')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN5Solicitud'), 
+    '4900')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/03 - Datos Bancarios/IBAN6Solicitud'), 
+    '4779')
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/04 - Datos Firma/FirmaDistancia'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/Fingreso'), '01012015')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/RazonSocial'), 'Prueba razon social')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/CIFempresa'), '26020872Y')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/MensualidadPrestamo'), 
+    '100')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/NetoMensual'), '50')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/CNAE'), 'FA05')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/05 - Laboral/idProfesion'), 'TÉCNICOS Y PROFESIONALES CIENTIFICOS E INTELECTUALES')
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/04 - Datos Firma/ValidarFirma'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/GuardarEnvioDocumentacion'))
+
+WebUI.delay(15)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/00 - Datos Cliente/Z - Emergentes/ConfirmarCliente'))
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - AnadirAvalista'))
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/NIFClienteAvalista'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/NIFClienteAvalista'), 
+    GlobalVariable.GlobalDNIAvalist)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/07 - Ofertar/01 - Emergentes/AceptarNoCliente'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/ApellidoSolicitarAvalista'), 
+    'ApeSolicitar')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/NombreSolicitarAvalista'), 
+    'NomSolicitar')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/CPSolicitudAvalista'), 
+    '28044')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/LocalidadSolicitudAvalista'), 
+    'Madrid')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/FechaSolicitarAvalista'), 
+    '26081987')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/NombreViaSolicitudAvalista'), 
+    'PruebaVia')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/NumeroViaSolicitudAvalista'), 
+    '10')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/TelefonoSolicitudAvalista'), 
+    '687393984')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/01 - Datos Contacto/MailSolicitudAvalista'), 
+    'rober.avila87@gmail.com')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/00 - DatosCliente/NumDependientesAvalista'), 
+    '1')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/02 - Datos Vivienda/FechaViviendaSolicitudAvalista'), 
+    '01012010')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/02 - Datos Vivienda/imHipotecario'), 
+    '500')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/02 - Datos Vivienda/porcentajeHipotecario'), 
+    '50')
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/03 - Datos Firma/FirmaManulAvalista'))
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/FingresoAvalista'), 
+    '01012015')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/RazonSocialAvalista'), 
+    'Prueba razon social')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/CIFempresaAvalista'), 
+    '26020872Y')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/MensualidadPrestamoAvalista'), 
+    '100')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/MensualidadPrestamoAvalista'), 
+    '100')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/NetoMensualAvalista'), 
+    '50')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/CNAEAvalista'), 
+    'FA05')
+
+WebUI.setText(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/04 - Laboral Avalista/idProfesionAvalista'), 
+    'TÉCNICOS Y PROFESIONALES CIENTIFICOS E INTELECTUALES')
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/03 - Datos Firma/ValidarFirmaAvalista'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/02 - Avalista/03 - Datos Firma/CerrarManualAvalista'))
+
+WebUI.delay(15)
+
+WebUI.click(findTestObject('00 - VN - Opciones/Produccion VN/08 - Solicitar/01 - Titular/06 - BotonesSolicitud/AceptarSolicitar'))
+
+'Funcionalidad Solicitud - 7 - Solicitar'
+WebUI.takeScreenshotAsCheckpoint('C:\\Users\\PS13116\\OneDrive - Alliance\\Escritorio\\Katalon\\Katalon_Studio_Windows_64-8.6.5\\Evidencias\\Solicitud\\test1.png', 
+    [])
+
+'Funcionalidad Solicitud - 7 - Solicitar'
+WebUI.click(findTestObject('01 - Vuelo/SalirSolicitud'))
+

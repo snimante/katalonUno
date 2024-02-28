@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 - 02 - Solicitar cliente Profesional</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ce07907-0604-4296-9c15-eb890551f978</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>37f9346d-bf21-4d2e-a3a1-9cbef22009ed</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Centro 12000/12000</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>37f9346d-bf21-4d2e-a3a1-9cbef22009ed</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>CP</value>
+      <variableId>3ed59550-8d89-48fb-a58a-4732093f43d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>37f9346d-bf21-4d2e-a3a1-9cbef22009ed</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Localidad</value>
+      <variableId>23a49421-1a55-4882-9c46-56009f2fadcd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>3ed59550-8d89-48fb-a58a-4732093f43d0</id>
+      <masked>false</masked>
+      <name>cp</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>23a49421-1a55-4882-9c46-56009f2fadcd</id>
+      <masked>false</masked>
+      <name>localidad</name>
+   </variable>
+</TestCaseEntity>

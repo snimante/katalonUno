@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_SOLICITUDES</name>
+   <tag></tag>
+   <elementGuidId>ce856bdd-a826-4b90-b6ca-15a21f15326b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='abox2']/span/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#abox2 > span.data.text-light > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a818ed86-7890-4ede-89f7-a239aa1f84ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SOLICITUDES</value>
+      <webElementGuid>59a09936-477b-4f9b-b569-faa3cb07df3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;abox2&quot;)/span[@class=&quot;data text-light&quot;]/strong[1]</value>
+      <webElementGuid>b6acdb7b-ebf2-4dd3-b92e-0872cdec642a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='abox2']/span/strong</value>
+      <webElementGuid>9b6f8142-a985-4867-ad17-c03e824ef6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTRAR'])[2]/following::strong[1]</value>
+      <webElementGuid>8283d968-7fd0-408c-8899-f22d60d070ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMIN. USUARIOS'])[2]/following::strong[1]</value>
+      <webElementGuid>57028e5a-516a-4a48-a1b1-766d72928e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTRAR'])[3]/preceding::strong[1]</value>
+      <webElementGuid>8c22df6a-0117-4fc0-bf11-1f4dbe8afd22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VERIFICACION'])[2]/preceding::strong[1]</value>
+      <webElementGuid>00274d2f-9d83-4cdf-812f-c4ecafbbf1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/a/span/strong</value>
+      <webElementGuid>0c2a1d78-106a-4aa3-8515-2846eac032c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'SOLICITUDES' or . = 'SOLICITUDES')]</value>
+      <webElementGuid>22bba6f0-c0f3-451d-9a48-c77b16cb7265</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

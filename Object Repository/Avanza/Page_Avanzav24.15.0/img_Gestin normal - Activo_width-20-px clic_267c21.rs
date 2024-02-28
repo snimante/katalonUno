@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Gestin normal - Activo_width-20-px clic_267c21</name>
+   <tag></tag>
+   <elementGuidId>b03eedca-7468-4698-8f5d-44c95344e421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='agreementResultTableId']/tbody/tr/td[8]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.width-20-px.clickable-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d8479904-1f7f-4045-aee9-bec27b1c7555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../angularjs-ES/img/img-view-icon.png</value>
+      <webElementGuid>796ce310-8d34-404b-b3fe-4bcc765435d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>width-20-px clickable-image</value>
+      <webElementGuid>315761c3-1b76-4f44-bb9a-40b0550cff9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.triggerSelection(agreementResult)</value>
+      <webElementGuid>aeb72d32-f305-4611-88c3-da5e05335840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agreementResultTableId&quot;)/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;inputColumn&quot;]/img[@class=&quot;width-20-px clickable-image&quot;]</value>
+      <webElementGuid>8ceeb690-9056-4127-946b-98de437e7d82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='agreementResultTableId']/tbody/tr/td[8]/img</value>
+      <webElementGuid>261066b2-7d3c-4a65-9677-5a483ea0715f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/img</value>
+      <webElementGuid>471d7884-445d-4773-b50d-095ffd0824db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../angularjs-ES/img/img-view-icon.png']</value>
+      <webElementGuid>bee3ca50-76b1-47bd-868c-16a1d27ea9c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

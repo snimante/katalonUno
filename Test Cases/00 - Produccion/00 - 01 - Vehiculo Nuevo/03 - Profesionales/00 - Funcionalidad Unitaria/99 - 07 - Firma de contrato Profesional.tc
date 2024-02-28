@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>99 - 07 - Firma de contrato Profesional</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ee0992b-5e93-4303-8ef5-1656f5ae6535</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c4868457-a9d1-47fd-8010-90f5e79135ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Centro 12000/12000').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c4868457-a9d1-47fd-8010-90f5e79135ff</id>
+      <masked>false</masked>
+      <name>Punto</name>
+   </variable>
+</TestCaseEntity>

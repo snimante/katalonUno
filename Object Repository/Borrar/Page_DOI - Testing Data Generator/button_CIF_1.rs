@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CIF_1</name>
+   <tag></tag>
+   <elementGuidId>bc772881-272e-4cdb-bf7d-bb997813a3d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='custom_cif']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custom_cif</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>16e06461-1267-4eb9-89f8-0bc5e665b5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-info</value>
+      <webElementGuid>1f456df3-6bb2-4e92-8010-f36882009969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custom_cif</value>
+      <webElementGuid>dc5cfdd2-1a8b-4a1f-88de-e1b27019c752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIF </value>
+      <webElementGuid>cb97d120-cc83-418e-87a4-e65be7910606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom_cif&quot;)</value>
+      <webElementGuid>623704f1-bed6-483b-8b73-f4d62745e3a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='custom_cif']</value>
+      <webElementGuid>8356b11a-0d93-4c52-9d1d-d0c52184a69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A56012982'])[1]/following::button[1]</value>
+      <webElementGuid>1d484582-cf6f-43d7-bb3d-5f1fd0e80638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número CIF personalizado'])[1]/following::button[1]</value>
+      <webElementGuid>1849f102-174a-4fec-aa16-e6f4b641f47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valida y calcula'])[1]/preceding::button[1]</value>
+      <webElementGuid>66b1079f-bc60-490f-9f24-da88c64f1b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valida NIF, NIE, CIF'])[1]/preceding::button[1]</value>
+      <webElementGuid>a026f111-30d2-4b6a-a6f0-3adbc1313b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>fa434ddf-9469-4620-9948-792c63e1c3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'custom_cif' and (text() = 'CIF ' or . = 'CIF ')]</value>
+      <webElementGuid>0ebcf8c5-8f3b-4930-978b-f5903d1fad53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

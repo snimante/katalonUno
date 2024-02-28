@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Seleccion diesel</name>
+   <tag></tag>
+   <elementGuidId>8f446e71-70b3-4455-ad57-878d92b7cf8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='boundlist-1866-listEl']/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mycombobox-1699-inputEl.x-form-field x-form-text x-trigger-noedit x-form-focus x-field-form-focus x-field-default-form-focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fea195fe-3c23-4084-b1e1-3085e8cfd87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>4f95c529-06af-4667-a10d-d3adae7258b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>fa33278f-0241-4540-8f58-50b615f7ce25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-boundlist-item x-boundlist-item-over</value>
+      <webElementGuid>a2bb3751-f3cb-4853-a249-2e77d146054e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DIESEL</value>
+      <webElementGuid>7892bfbd-f536-494b-832a-72ff048b2ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1866-listEl&quot;)/ul[@class=&quot;x-list-plain&quot;]/li[@class=&quot;x-boundlist-item x-boundlist-item-over&quot;]</value>
+      <webElementGuid>c6ec1bf6-9d0a-42f7-9045-1caae46aefa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='boundlist-1866-listEl']/ul/li[2]</value>
+      <webElementGuid>ceea43f0-8718-4988-973c-c8b041e8400f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GASOLINA'])[1]/following::li[1]</value>
+      <webElementGuid>10087466-c819-43fb-a592-95437dfec7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::li[2]</value>
+      <webElementGuid>5bee12f6-b32b-420c-a072-d520216afa7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECTRICO BL'])[1]/preceding::li[1]</value>
+      <webElementGuid>46cc1627-bf51-481c-90f0-0af35f30d701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECTRICO FULL PURCHASE'])[1]/preceding::li[2]</value>
+      <webElementGuid>fc5f50a3-2a10-4381-bae2-fa9b1eae5076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DIESEL']/parent::*</value>
+      <webElementGuid>51f11a13-881e-4acf-ac10-cf8636cf0073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>dea94c29-64bf-4ac4-8bb6-220102a69e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'DIESEL' or . = 'DIESEL')]</value>
+      <webElementGuid>e7eb36ab-86e3-4b31-a5e9-e21f8084be03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

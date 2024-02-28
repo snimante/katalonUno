@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Negro</name>
+   <tag></tag>
+   <elementGuidId>704da4ea-99b3-4ee2-a187-e420feee8e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='ext-gen2516']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.x-grid-checkcolumn.x-grid-checkcolumn-checked</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d35c5ed9-c4c5-4c9b-a2f4-b35a02ea4239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-grid-checkcolumn x-grid-checkcolumn-checked</value>
+      <webElementGuid>4bbc4eb8-0280-4731-8146-136b10cf19e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/pfn/abacoext//resources/images/s.gif</value>
+      <webElementGuid>abd59948-6f01-4c8c-827c-7223ad00259f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen2516&quot;)/div[@class=&quot;x-grid-cell-inner x-grid-cell-inner-checkcolumn&quot;]/img[@class=&quot;x-grid-checkcolumn x-grid-checkcolumn-checked&quot;]</value>
+      <webElementGuid>7df8f890-3ddb-476e-8a46-51c3b01a0223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='ext-gen2516']/div/img</value>
+      <webElementGuid>6883b9a9-9941-405e-a49d-715badc2b9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div/img</value>
+      <webElementGuid>2ab9cc0d-3d3e-4f10-b3db-da9efdc85fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/pfn/abacoext//resources/images/s.gif']</value>
+      <webElementGuid>eafd594d-22f8-46f8-b74d-1110b5bee3d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

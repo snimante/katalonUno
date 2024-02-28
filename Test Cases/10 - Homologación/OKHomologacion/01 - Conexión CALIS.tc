@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validación calculadora</description>
+   <name>01 - Conexión CALIS</name>
+   <tag>Calculadora</tag>
+   <comment></comment>
+   <testCaseGuid>0485d22b-dd5a-4394-ab61-4be39f46bd65</testCaseGuid>
+</TestCaseEntity>
