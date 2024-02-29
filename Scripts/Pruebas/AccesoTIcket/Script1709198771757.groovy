@@ -16,7 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.util.KeywordUtil as MensLog
 
 WebUI.openBrowser('')
 
@@ -29,47 +28,4 @@ WebUI.setText(findTestObject('Aprobación de tickets/Login/usuarioLogin'), 'ps13
 WebUI.setEncryptedText(findTestObject('Aprobación de tickets/Login/passLogin'), 'hDbHQ6BUgZQTFeRp05MH4g==')
 
 WebUI.click(findTestObject('Aprobación de tickets/Login/accesoLogin'), FailureHandling.CONTINUE_ON_FAILURE)
-
-int a = 0
-
-int contadorSolicitud = 0
-
-int intentos = 0
-
-while (a < 200) {
-    WebUI.click(findTestObject('Aprobación de tickets/Funcionalidades/CarpetaAutoHomologar'), FailureHandling.OPTIONAL)
-
-    boolean control = WebUI.verifyElementVisible(findTestObject('Aprobación de tickets/Funcionalidades/seleccionarTicketprimero'), 
-        FailureHandling.OPTIONAL)
-
-    println(control)
-
-    if (control == true) {
-        WebUI.click(findTestObject('Aprobación de tickets/Funcionalidades/seleccionarTicketprimero'))
-
-        WebUI.click(findTestObject('Aprobación de tickets/Funcionalidades/botonAprobar'), FailureHandling.OPTIONAL)
-
-        contadorSolicitud++
-
-        MensLog.logInfo('*********************************************************************************************')
-
-        MensLog.logInfo(('******************** Solicitud aprobada numero: ' + contadorSolicitud) + '********************')
-
-        MensLog.logInfo('*********************************************************************************************')
-    } else {
-        println('NO TENGO REGISTROS')
-
-        intentos++
-
-        MensLog.logInfo('Solicitudes Aprobadas hoy : ' + contadorSolicitud)
-
-        MensLog.logInfo('Intentos de aprobar : ' + intentos)
-
-        a++
-    }
-    
-    WebUI.delay(60)
-}
-
-MensLog.logInfo(('Termino de trabajar' + a) + 'Veces ejecutado')
 
